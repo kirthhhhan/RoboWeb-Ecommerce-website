@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Desktop/Hell"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mp6sem"
+	}
+}
